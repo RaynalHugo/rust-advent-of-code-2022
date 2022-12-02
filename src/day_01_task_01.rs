@@ -15,7 +15,7 @@ pub fn solve(input: &str) -> u32 {
 
 #[cfg(test)]
 mod tests {
-    use crate::day_01_task_01::solve;
+    use super::solve;
     use std::fs;
 
     #[test]
