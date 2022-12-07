@@ -7,3 +7,5 @@ mod day_04_task_01;
 mod day_04_task_02;
 mod day_05_task_01;
 mod day_05_task_02;
+mod day_06_task_01;
+mod day_06_task_02;
